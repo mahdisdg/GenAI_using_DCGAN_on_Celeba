@@ -46,7 +46,7 @@ The training follows a minimax game where the Discriminator is trained to maximi
 ## ⚙️ How to Run
 1.  Clone the repo:
    
-    git clone [https://github.com/your-username/CelebA-DCGAN-Synthesis.git](https://github.com/mahdisdg/GenAI_using_DCGAN_on_Celeba.git)
+    git clone [https://github.com/mahdisdg/GenAI_using_DCGAN_on_Celeba.git](https://github.com/mahdisdg/GenAI_using_DCGAN_on_Celeba.git)
     
 2.  Dataset: Download the CelebA dataset from Kaggle and place the images in the /data folder.
 3.  Execute: Run the cells in main.ipynb to train the model or generate new faces using pre-saved weights.
